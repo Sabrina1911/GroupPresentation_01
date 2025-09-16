@@ -18,7 +18,7 @@
 8. Reproducibility
 9. Troubleshooting
 
-## Environment Setup
+## Environment Setup 
    # Windows (PowerShell)
     cd C:\Users\Sabrina\1557_VSC\DataAnalysis\Group_Presentation_1
     python -m venv .venv
@@ -34,8 +34,6 @@
 The notebook uses NumPy, Pandas, Matplotlib, Jupyter, Seaborn (optional for loading Titanic), and Matplotlib-Venn (optional).
 
     pip install numpy pandas matplotlib jupyter seaborn matplotlib-venn scipy
-   # For Excel export (optional):
-    pip install openpyxl
 
 ## Project Structure
 Group_Presentation_1/
